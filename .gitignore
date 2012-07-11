@@ -3,3 +3,7 @@ pom.xml
 /lib/
 /classes/
 .lein-deps-sum
+.classpath
+.project
+.settings/
+bin
