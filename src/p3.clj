@@ -19,4 +19,4 @@
   [n]
   (filter prime? (divisors n)))
 
-(reduce max (prime-factors 600851475143))
+(time (reduce max (prime-factors 600851475143)))
