@@ -7,3 +7,4 @@ pom.xml
 .project
 .settings/
 bin
+.DS_STORE
