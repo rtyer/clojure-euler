@@ -13,6 +13,8 @@
 (defn square-of-sum
   [r]
   (square (reduce + r)))
-(-
-  (square-of-sum nums)
-  (sum-of-squares nums))
+
+(time
+  (-
+    (square-of-sum nums)
+    (sum-of-squares nums)))
