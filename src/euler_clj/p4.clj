@@ -1,4 +1,4 @@
-(ns p4
+(ns euler-clj.p4
   (:require [clojure.string :as s]))
 
 ;;A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 99.

@@ -1,4 +1,4 @@
-(ns p8)
+(ns euler-clj.p8)
 
 ;; Find the greatest product of five consecutive digits in:
 

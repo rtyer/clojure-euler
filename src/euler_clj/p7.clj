@@ -1,4 +1,4 @@
-(ns p7)
+(ns euler-clj.p7)
 
 ;; need to make a sieve for primes
 
@@ -14,5 +14,5 @@
   (nth 
     (filter prime? 
             (iterate inc 1))
-    10001))
+    1e6))
 
